@@ -19,6 +19,8 @@ Please read CONTRIBUTING. If you're new to GitHub, welcome! Remember to abide by
 
 ### Android (Java)
 
+- [Android Profile UI Java XML](https://github.com/karunstha/android-profile-ui "Android Profile UI Java XML")
+
 ### Swift (Swift UI)
 
 - [SwiftUI Animation Gallery](http:/https://github.com/amosgyamfi/swiftui-animation-gallery/ "SwiftUI Animation Gallery")
@@ -35,6 +37,8 @@ Please read CONTRIBUTING. If you're new to GitHub, welcome! Remember to abide by
 
 ### Xamarin
 
+- [CSS flexbox module for Xamarin](https://github.com/xamarin/flex "CSS flexbox module for Xamarin")
+
 ### Ionic
 
 - [Ionic-ion Tinder Cards](https://github.com/ionic-team/ionic-ion-tinder-cards "Ionic-ion Tinder Cards")
@@ -46,8 +50,11 @@ Please read CONTRIBUTING. If you're new to GitHub, welcome! Remember to abide by
 ### Angular
 
 - [Angular Material Material Design components for Angular](https://material.angular.io/ "Angular Material Material Design components for Angular")
+- [Pinterest like responsive masonry grid](https://github.com/s-yadav/angulargrid "Pinterest like responsive masonry grid")
 
 ### Vue
+
+- [Vue Easy Slider (Slider Component of Vue.js.)](https://github.com/shhdgit/vue-easy-slider "Vue Easy Slider (Slider Component of Vue.js.)")
 
 ### HTML CSS
 
