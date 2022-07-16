@@ -14,8 +14,8 @@ Please read CONTRIBUTING. If you're new to GitHub, welcome! Remember to abide by
 
 ### Android (Kotlin)
 
-- [Landscapist Jetpack Compose image loading library](htthttps://github.com/skydoves/landscapistp:// "Landscapist Jetpack Compose image loading library")
-- [ViewPager cards inspired by Duolingo](https://github.com/rubensousa/ViewPagerCards")
+- [Landscapist Jetpack Compose image loading library](https://github.com/skydoves/landscapist)
+- [ViewPager cards inspired by Duolingo](https://github.com/rubensousa/ViewPagerCards)
 
 ### Android (Java)
 
@@ -28,12 +28,16 @@ Please read CONTRIBUTING. If you're new to GitHub, welcome! Remember to abide by
 ### Flutter
 
 - [Awesome Clothes App](https://github.com/antonio-pedro99/awesome_clothes_shop "Awesome Clothes App")
+- [Login Page UI](https://github.com/justkingsley/login-page "Login Page UI")
+- [Messenger-UI-Clone](https://github.com/anishghale007/Messenger-UI-Clone "Messenger-UI-Clone")
 
 ### Xamarin
 
 ### Ionic
 
 ### React
+
+- [React Tinder Card](https://github.com/3DJakob/react-tinder-card#readme "React Tinder Card")
 
 ### Angular
 
