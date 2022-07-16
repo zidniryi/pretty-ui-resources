@@ -25,6 +25,8 @@ Please read CONTRIBUTING. If you're new to GitHub, welcome! Remember to abide by
 
 ### React Native
 
+- [NativeBase Universal Components for React & React Native](https://nativebase.io/ "NativeBase Universal Components for React & React Native")
+
 ### Flutter
 
 - [Awesome Clothes App](https://github.com/antonio-pedro99/awesome_clothes_shop "Awesome Clothes App")
@@ -35,11 +37,15 @@ Please read CONTRIBUTING. If you're new to GitHub, welcome! Remember to abide by
 
 ### Ionic
 
+- [Ionic-ion Tinder Cards](https://github.com/ionic-team/ionic-ion-tinder-cards "Ionic-ion Tinder Cards")
+
 ### React
 
 - [React Tinder Card](https://github.com/3DJakob/react-tinder-card#readme "React Tinder Card")
 
 ### Angular
+
+- [Angular Material Material Design components for Angular](https://material.angular.io/ "Angular Material Material Design components for Angular")
 
 ### Vue
 
