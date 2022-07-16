@@ -14,11 +14,20 @@ Please read CONTRIBUTING. If you're new to GitHub, welcome! Remember to abide by
 
 ### Android (Kotlin)
 
-### Swift
+- [Landscapist Jetpack Compose image loading library](htthttps://github.com/skydoves/landscapistp:// "Landscapist Jetpack Compose image loading library")
+- [ViewPager cards inspired by Duolingo](https://github.com/rubensousa/ViewPagerCards")
+
+### Android (Java)
+
+### Swift (Swift UI)
+
+- [SwiftUI Animation Gallery](http:/https://github.com/amosgyamfi/swiftui-animation-gallery/ "SwiftUI Animation Gallery")
 
 ### React Native
 
 ### Flutter
+
+- [Awesome Clothes App](https://github.com/antonio-pedro99/awesome_clothes_shop "Awesome Clothes App")
 
 ### Xamarin
 
