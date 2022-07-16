@@ -14,6 +14,7 @@ Please read CONTRIBUTING. If you're new to GitHub, welcome! Remember to abide by
 
 ### Android (Kotlin)
 
+- [Easy, flexible and powerful Swipe Layout for Android](https://androidrepo.com/repo/chthai64-SwipeRevealLayout-android-layout "Easy, flexible and powerful Swipe Layout for Android")
 - [Landscapist Jetpack Compose image loading library](https://github.com/skydoves/landscapist)
 - [ViewPager cards inspired by Duolingo](https://github.com/rubensousa/ViewPagerCards)
 
