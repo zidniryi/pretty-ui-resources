@@ -23,6 +23,8 @@ Please read CONTRIBUTING. If you're new to GitHub, welcome! Remember to abide by
 
 ### Swift (Swift UI)
 
+- [Contacts-SwiftUI is a contacts app built using SwiftUI! Scroll through a dynamic list of contacts](https://github.com/bobbyconti/Contacts-SwiftUI "Contacts-SwiftUI is a contacts app built using SwiftUI! Scroll through a dynamic list of contacts")
+- [MovieSwiftUI is an application that uses the MovieDB API and is built with SwiftUI.](https://github.com/Dimillian/MovieSwiftUI "MovieSwiftUI is an application that uses the MovieDB API and is built with SwiftUI.")
 - [SwiftUI Animation Gallery](http:/https://github.com/amosgyamfi/swiftui-animation-gallery/ "SwiftUI Animation Gallery")
 
 ### React Native
