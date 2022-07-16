@@ -58,7 +58,9 @@ Please read CONTRIBUTING. If you're new to GitHub, welcome! Remember to abide by
 
 ### HTML CSS
 
+- [15 CSS Blob Effects](https://freefrontend.com/css-blob-effects/ "15 CSS Blob Effects")
 - [Facebook Login Page Html Code With CSS](https://www.oflox.com/blog/facebook-login-page-html-code/ "Facebook Login Page Html Code With CSS")
+- [Replicate the google.com page design using HTML and CSS](https://www.codespeedy.com/replicate-the-google-com-page-design-using-html-and-css/ "Replicate the google.com page design using HTML and CSS")
 - [Responsive Web Login Form UI](https://github.com/raheel-anwar/Web-Login-Form-UI "Responsive Web Login Form UI")
 
 ## License
