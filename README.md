@@ -8,7 +8,7 @@ A collection of Resource Templates and UI for Frontend and Mobile that are ready
 
 ## How To Contribute
 
-Please read CONTRIBUTING. If you're new to GitHub, welcome! Remember to abide by our adapted from Contributor Covenant
+Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/main/docs/CONTRIBUTING.md "CONTRIBUTING"). If you're new to GitHub, welcome! Remember to abide by our adapted from Contributor Covenant
 
 ## Resources
 
