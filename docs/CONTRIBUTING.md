@@ -16,7 +16,7 @@ By contributing you agree to the LICENSE of this repository.
 3. For the naming branch create your branch name **your_urname/name_feature** E.g **zidniryi/react-native**
 4. You may merge the Pull Request in once you have done to branch **main**
 
-##Our Responsibilities
+## Our Responsibilities
 
 Project maintainers are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
