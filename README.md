@@ -14,8 +14,20 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 
 ### Android (Kotlin)
 
+- [Android Button that morphs into a loading progress bar.](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid "Android Button that morphs into a loading progress bar.")
+- [Android-FilePicker (Androidx based)](https://github.com/DroidNinja/Android-FilePicker "Android-FilePicker (Androidx based)
+- [Android Search View based on Material design guidelines.](https://github.com/Mauker1/MaterialSearchView "Android Search View based on Material design guidelines.")
+- [CircleMenu is a simple, elegant menu with a circular layout.](https://github.com/ImangazalievM/CircleMenu "CircleMenu is a simple, elegant menu with a circular layout.")
 - [Easy, flexible and powerful Swipe Layout for Android](https://androidrepo.com/repo/chthai64-SwipeRevealLayout-android-layout "Easy, flexible and powerful Swipe Layout for Android")
+- [EasyImage - Library for picking pictures from gallery or camera](https://github.com/jkwiecien/EasyImage "EasyImage - Library for picking pictures from gallery or camera")
+- [Easily celebrate little and big moments in your app with this lightweight confetti library!](https://github.com/DanielMartinus/Konfetti "Easily celebrate little and big moments in your app with this lightweight confetti library!")
+- [Flexbox For Android](https://github.com/google/flexbox-layout "Flexbox For Android")
+- [Instagram-Clone-Kotlin](https://github.com/alexbezhan/Instagram-Clone-Kotlin "Instagram-Clone-Kotlin")
 - [Landscapist Jetpack Compose image loading library](https://github.com/skydoves/landscapist)
+- [Money Tracker UI with Kotlin](https://github.com/gandarain/money_track_app "Money Tracker UI with Kotlin")
+- [Material Chip view. Can be used as tags for categories, contacts or creating text clouds](https://github.com/robertlevonyan/materialChipView "Material Chip view. Can be used as tags for categories, contacts or creating text clouds")
+- [RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators "RecyclerView Animators")
+- [Switcher Android implementation of switch animation](https://github.com/bitvale/Switcher "Switcher Android implementation of switch animation")
 - [ViewPager cards inspired by Duolingo](https://github.com/rubensousa/ViewPagerCards)
 
 ### Android (Java)
