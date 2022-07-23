@@ -68,8 +68,25 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 ### Flutter
 
 - [Awesome Clothes App](https://github.com/antonio-pedro99/awesome_clothes_shop "Awesome Clothes App")
+- [Anime App UI built using Flutter](https://github.com/siddheshsonawane07/anime_app "Anime App UI built using Flutter")
+- [Bank UI Futter Template](https://github.com/MonsieurZbanowanYY/Bank-UI-Flutter "Bank UI Futter Template")
+- [Dice game animation made with flutter](https://github.com/clickfrancis/jogo_de_dado_flutter "Dice game animation made with flutter")
+- [Fashion ecommerce app built with flutter](https://github.com/Devlonoah/Open-Fashion "fashion ecommerce app built with flutter")
+- [Finance App UI With Flutter](https://github.com/THANGADURAISELVARAJ/Flutter---Finance-UI "Finance App UI With Flutter")
+- [Flutter eCommerce Template](https://github.com/Abdulkadir19997/ecommerce-shope-app "Flutter eCommerce Template")
+- [Flutter image edit app for web, android, and iOS](https://github.com/topex-psy/Drawie "Flutter image edit app for web, android, and iOS")
+- [Fruit shopping app UI for Flutter](https://github.com/kadironer/fruit_shopping_app "Fruit shopping app UI for Flutter")
+- [Login page with flutter](https://github.com/justkingsley/login-page "Login page with flutter")
 - [Login Page UI](https://github.com/justkingsley/login-page "Login Page UI")
 - [Messenger-UI-Clone](https://github.com/anishghale007/Messenger-UI-Clone "Messenger-UI-Clone")
+- [Multi Image Picker With Flutter](https://github.com/idabgsram/multi_image_picker "Multi Image Picker With Flutter")
+- [Onboarding screens for grocery app using flutter](https://github.com/ritsat/onboarding_screens "Onboarding screens for grocery app using flutter")
+- [Simple chat app UI design in Flutter](https://github.com/afgprogrammer/Flutter-simple-chat-app "Simple chat app UI design in Flutter")
+- [Simple weather app with flutter](https://github.com/gcoutinho1/weather "Simple weather app with flutter")
+- [Searchable listview built with Flutter](https://github.com/pradum97/Flutter-searchable-listview "Searchable listview built with Flutter")
+- [ToDo App with Flutter](https://github.com/MuharremKoroglu/Goode_Notes "ToDo App with Flutter")
+- [Task Management UI Template with Flutter](https://github.com/AgnelSelvan/Flutter-UI-Template "Task Management UI Template with Flutter")
+- [Travel App UI for Flutter](https://github.com/abdulkerimcan/travel_app_ui "Travel App UI for Flutter")
 
 ### Xamarin
 
