@@ -34,6 +34,9 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [Switcher Android implementation of switch animation](https://github.com/bitvale/Switcher "Switcher Android implementation of switch animation")
 - [ViewPager cards inspired by Duolingo](https://github.com/rubensousa/ViewPagerCards)
 - [WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android "WordPress-Android")
+- [Github User](https://github.com/gandarain/github-user)
+- [Learning Kotlin](https://github.com/gandarain/Learn-Kotlin)
+- [Learning XML](https://github.com/gandarain/learn_xml)
 
 ### Android (Java)
 
