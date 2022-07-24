@@ -37,10 +37,14 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [Github User](https://github.com/gandarain/github-user)
 - [Learning Kotlin](https://github.com/gandarain/Learn-Kotlin)
 - [Learning XML](https://github.com/gandarain/learn_xml)
+- [EditText in RecyclerView](https://github.com/didik-maulana/edit-text-recyclerview)
+- [ImageCompression](https://github.com/didik-maulana/ImageCompression)
+- [Moflix Apps](https://github.com/didik-maulana/moflix-apps)
 
 ### Android (Java)
 
 - [Android Profile UI Java XML](https://github.com/karunstha/android-profile-ui "Android Profile UI Java XML")
+- [Sport Apps](https://github.com/didik-maulana/SportApps)
 
 ### Swift (Swift UI)
 
