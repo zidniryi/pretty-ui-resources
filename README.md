@@ -47,6 +47,8 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [Contacts-SwiftUI is a contacts app built using SwiftUI! Scroll through a dynamic list of contacts](https://github.com/bobbyconti/Contacts-SwiftUI "Contacts-SwiftUI is a contacts app built using SwiftUI! Scroll through a dynamic list of contacts")
 - [MovieSwiftUI is an application that uses the MovieDB API and is built with SwiftUI.](https://github.com/Dimillian/MovieSwiftUI "MovieSwiftUI is an application that uses the MovieDB API and is built with SwiftUI.")
 - [SwiftUI Animation Gallery](http:/https://github.com/amosgyamfi/swiftui-animation-gallery/ "SwiftUI Animation Gallery")
+- [SwiftUI Movie Apps](https://github.com/didik-maulana/SwiftUIMovieApps)
+- [SwiftUI PixaGame Apps](https://github.com/didik-maulana/pixa-game-apps)
 
 ### React Native
 
