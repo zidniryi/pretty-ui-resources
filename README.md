@@ -90,6 +90,9 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [ToDo App with Flutter](https://github.com/MuharremKoroglu/Goode_Notes "ToDo App with Flutter")
 - [Task Management UI Template with Flutter](https://github.com/AgnelSelvan/Flutter-UI-Template "Task Management UI Template with Flutter")
 - [Travel App UI for Flutter](https://github.com/abdulkerimcan/travel_app_ui "Travel App UI for Flutter")
+- [Flutter Intro Layout](https://github.com/didik-maulana/flutter_intro_layout)
+- [Flutter Auto Complete Search Sample](https://github.com/didik-maulana/flutter_autocomplete_search)
+- [Find Resto Apps](https://github.com/didik-maulana/find_resto_apps)
 
 ### Xamarin
 
