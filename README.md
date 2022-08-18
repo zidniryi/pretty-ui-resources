@@ -113,6 +113,10 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 
 ### React
 
+- [A media gallery app build with React, Redux and Saga, using Flickr API.](https://github.com/mihailgaberov/mickey-gallery "A media gallery app build with React, Redux and Saga, using Flickr API.")
+- [React-cool-music-player](https://github.com/neroneroffy/react-music-player "react-cool-music-player")
+- [React Hooks app to calculate the BMI of a person.](https://github.com/GermaVinsmoke/bmi-calculator "React Hooks app to calculate the BMI of a person.")
+- [React-meme-generator](https://github.com/lijinke666/react-meme-generator "React-meme-generator")
 - [React Tinder Card](https://github.com/3DJakob/react-tinder-card#readme "React Tinder Card")
 
 ### Angular
