@@ -129,7 +129,13 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 
 ### Vue
 
+- [A Vue Signature Pad Component](https://github.com/neighborhood999/vue-signature-pad)
+- [CSV components for Vue.js](https://github.com/ynishi/vuecsv)
+- [Diagram component for vue.js, inspired by react-diagrams](https://github.com/gwenaelp/vue-diagrams)
+- [Vue Dropzone Upload](https://github.com/rowanwins/vue-dropzone)
 - [Vue Easy Slider (Slider Component of Vue.js.)](https://github.com/shhdgit/vue-easy-slider "Vue Easy Slider (Slider Component of Vue.js.)")
+- [Vue component for Froala WYSIWYG HTML Rich Text Editor.](https://github.com/froala/vue-froala-wysiwyg)
+- [Vue.js directive for masonry blocks layouting.](https://github.com/shershen08/vue-masonry)
 
 ### HTML CSS
 
