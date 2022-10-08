@@ -44,6 +44,9 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 ### Android (Java)
 
 - [Android Profile UI Java XML](https://github.com/karunstha/android-profile-ui "Android Profile UI Java XML")
+- [Andorid Java UI Profile XML](https://github.com/theindianappguy/SampleProfileUi)
+- [Login UI Cool Java XML](https://github.com/sachintha00/Android-Login-UI)
+- [Mini android game written with java and using libgdx framework](https://github.com/boctavian96/SquareDodger)
 - [Sport Apps](https://github.com/didik-maulana/SportApps)
 
 ### Swift (Swift UI)
