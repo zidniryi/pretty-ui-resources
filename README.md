@@ -125,7 +125,13 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 ### Angular
 
 - [Angular Material Material Design components for Angular](https://material.angular.io/ "Angular Material Material Design components for Angular")
+- [ Customizable Slack-like emoji picker for Angular](https://github.com/scttcper/ngx-emoji-mart)
+- [A wrapper for sweetalert2 for use with Angular 2.](https://github.com/seiyria/ng2-sweetalert2)
+- [Highly customizable component to handle file drops and selection(ngx-dropzone).](https://github.com/peterfreeman/ngx-dropzone)
+- [Infinite Scroll Directive for Angular2 (based on Observables)](https://www.npmjs.com/package/angular2-infinite-scroll)
+- [Official component for fullPage.js, a fullscreen scrolling library.](https://github.com/alvarotrigo/angular-fullpage)
 - [Pinterest like responsive masonry grid](https://github.com/s-yadav/angulargrid "Pinterest like responsive masonry grid")
+- [Lightweight Angular Chart Library](https://github.com/Chtau/dlChart)
 
 ### Vue
 
