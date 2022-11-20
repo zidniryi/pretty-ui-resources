@@ -37,6 +37,7 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [Github User](https://github.com/gandarain/github-user)
 - [Learning Kotlin](https://github.com/gandarain/Learn-Kotlin)
 - [Learning XML](https://github.com/gandarain/learn_xml)
+- [Story App](https://github.com/gandarain/Story-App)
 
 ### Android (Java)
 
