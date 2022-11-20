@@ -40,6 +40,7 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [EditText in RecyclerView](https://github.com/didik-maulana/edit-text-recyclerview)
 - [ImageCompression](https://github.com/didik-maulana/ImageCompression)
 - [Moflix Apps](https://github.com/didik-maulana/moflix-apps)
+- [Story App](https://github.com/gandarain/Story-App)
 
 ### Android (Java)
 
