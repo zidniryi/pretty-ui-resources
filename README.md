@@ -37,17 +37,26 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [Github User](https://github.com/gandarain/github-user)
 - [Learning Kotlin](https://github.com/gandarain/Learn-Kotlin)
 - [Learning XML](https://github.com/gandarain/learn_xml)
+- [EditText in RecyclerView](https://github.com/didik-maulana/edit-text-recyclerview)
+- [ImageCompression](https://github.com/didik-maulana/ImageCompression)
+- [Moflix Apps](https://github.com/didik-maulana/moflix-apps)
 - [Story App](https://github.com/gandarain/Story-App)
 
 ### Android (Java)
 
 - [Android Profile UI Java XML](https://github.com/karunstha/android-profile-ui "Android Profile UI Java XML")
+- [Andorid Java UI Profile XML](https://github.com/theindianappguy/SampleProfileUi)
+- [Login UI Cool Java XML](https://github.com/sachintha00/Android-Login-UI)
+- [Mini android game written with java and using libgdx framework](https://github.com/boctavian96/SquareDodger)
+- [Sport Apps](https://github.com/didik-maulana/SportApps)
 
 ### Swift (Swift UI)
 
 - [Contacts-SwiftUI is a contacts app built using SwiftUI! Scroll through a dynamic list of contacts](https://github.com/bobbyconti/Contacts-SwiftUI "Contacts-SwiftUI is a contacts app built using SwiftUI! Scroll through a dynamic list of contacts")
 - [MovieSwiftUI is an application that uses the MovieDB API and is built with SwiftUI.](https://github.com/Dimillian/MovieSwiftUI "MovieSwiftUI is an application that uses the MovieDB API and is built with SwiftUI.")
 - [SwiftUI Animation Gallery](http:/https://github.com/amosgyamfi/swiftui-animation-gallery/ "SwiftUI Animation Gallery")
+- [SwiftUI Movie Apps](https://github.com/didik-maulana/SwiftUIMovieApps)
+- [SwiftUI PixaGame Apps](https://github.com/didik-maulana/pixa-game-apps)
 
 ### React Native
 
@@ -68,6 +77,9 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [Shope app is a native react project for an online store](https://github.com/zidniryi/shopeApp "Shope app is a native react project for an online store")
 - [Tinder React Native Deck Swiper](https://github.com/alexbrillant/react-native-deck-swiper "Tinder React Native Deck Swiper")
 - [WhatsApp Clone Using React Native](https://github.com/filipenatanael/whatsapp-clone-react-native "WhatsApp Clone Using React Native")
+- [React Native Starter with TypeScript](https://github.com/gandarain/rn_starter "React Native Starter with TypeScript")
+- [e-commerce React Native Example](https://github.com/gandarain/Ecommerce_RN "e-commerce React Native Example")
+- [RN Cart App with Async Storage](https://github.com/gandarain/Ecommerce_RN "RN Cart App with Async Storage")
 
 ### Flutter
 
@@ -91,6 +103,9 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [ToDo App with Flutter](https://github.com/MuharremKoroglu/Goode_Notes "ToDo App with Flutter")
 - [Task Management UI Template with Flutter](https://github.com/AgnelSelvan/Flutter-UI-Template "Task Management UI Template with Flutter")
 - [Travel App UI for Flutter](https://github.com/abdulkerimcan/travel_app_ui "Travel App UI for Flutter")
+- [Flutter Intro Layout](https://github.com/didik-maulana/flutter_intro_layout)
+- [Flutter Auto Complete Search Sample](https://github.com/didik-maulana/flutter_autocomplete_search)
+- [Find Resto Apps](https://github.com/didik-maulana/find_resto_apps)
 
 ### Xamarin
 
@@ -102,16 +117,32 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 
 ### React
 
+- [A media gallery app build with React, Redux and Saga, using Flickr API.](https://github.com/mihailgaberov/mickey-gallery "A media gallery app build with React, Redux and Saga, using Flickr API.")
+- [React-cool-music-player](https://github.com/neroneroffy/react-music-player "react-cool-music-player")
+- [React Hooks app to calculate the BMI of a person.](https://github.com/GermaVinsmoke/bmi-calculator "React Hooks app to calculate the BMI of a person.")
+- [React-meme-generator](https://github.com/lijinke666/react-meme-generator "React-meme-generator")
 - [React Tinder Card](https://github.com/3DJakob/react-tinder-card#readme "React Tinder Card")
 
 ### Angular
 
 - [Angular Material Material Design components for Angular](https://material.angular.io/ "Angular Material Material Design components for Angular")
+- [ Customizable Slack-like emoji picker for Angular](https://github.com/scttcper/ngx-emoji-mart)
+- [A wrapper for sweetalert2 for use with Angular 2.](https://github.com/seiyria/ng2-sweetalert2)
+- [Highly customizable component to handle file drops and selection(ngx-dropzone).](https://github.com/peterfreeman/ngx-dropzone)
+- [Infinite Scroll Directive for Angular2 (based on Observables)](https://www.npmjs.com/package/angular2-infinite-scroll)
+- [Official component for fullPage.js, a fullscreen scrolling library.](https://github.com/alvarotrigo/angular-fullpage)
 - [Pinterest like responsive masonry grid](https://github.com/s-yadav/angulargrid "Pinterest like responsive masonry grid")
+- [Lightweight Angular Chart Library](https://github.com/Chtau/dlChart)
 
 ### Vue
 
+- [A Vue Signature Pad Component](https://github.com/neighborhood999/vue-signature-pad)
+- [CSV components for Vue.js](https://github.com/ynishi/vuecsv)
+- [Diagram component for vue.js, inspired by react-diagrams](https://github.com/gwenaelp/vue-diagrams)
+- [Vue Dropzone Upload](https://github.com/rowanwins/vue-dropzone)
 - [Vue Easy Slider (Slider Component of Vue.js.)](https://github.com/shhdgit/vue-easy-slider "Vue Easy Slider (Slider Component of Vue.js.)")
+- [Vue component for Froala WYSIWYG HTML Rich Text Editor.](https://github.com/froala/vue-froala-wysiwyg)
+- [Vue.js directive for masonry blocks layouting.](https://github.com/shershen08/vue-masonry)
 
 ### HTML CSS
 
