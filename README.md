@@ -41,6 +41,7 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [ImageCompression](https://github.com/didik-maulana/ImageCompression)
 - [Moflix Apps](https://github.com/didik-maulana/moflix-apps)
 - [Story App](https://github.com/gandarain/Story-App)
+- [JetCoffee App](https://github.com/gandarain/belajar-membuat-aplikasi-android-dengan-jetpack-compose/tree/main/3.%20layout-pada-compose/3.3%20JetCoffee)
 
 ### Android (Java)
 
