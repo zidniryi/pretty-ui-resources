@@ -152,6 +152,7 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 
 - [15 CSS Blob Effects](https://freefrontend.com/css-blob-effects/ "15 CSS Blob Effects")
 - [Facebook Login Page Html Code With CSS](https://www.oflox.com/blog/facebook-login-page-html-code/ "Facebook Login Page Html Code With CSS")
+- [Illustration parallax on hero section | HTML5, SCSS, JavaScript, GSAP](https://codepen.io/Zajno/pen/YzjRaOe "Illustration parallax on hero section | HTML5, SCSS, JavaScript, GSAP")
 - [Replicate the google.com page design using HTML and CSS](https://www.codespeedy.com/replicate-the-google-com-page-design-using-html-and-css/ "Replicate the google.com page design using HTML and CSS")
 - [Responsive Web Login Form UI](https://github.com/raheel-anwar/Web-Login-Form-UI "Responsive Web Login Form UI")
 
