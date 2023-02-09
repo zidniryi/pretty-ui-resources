@@ -117,6 +117,7 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 ### Ionic
 
 - [Ionic-ion Tinder Cards](https://github.com/ionic-team/ionic-ion-tinder-cards "Ionic-ion Tinder Cards")
+- [Ionic-Component Costumizable UI Components for Ionic 4](https://github.com/fivethree-team/ionic-4-components "Ionic-Component Costumizable UI Components for Ionic 4")
 
 ### React
 
