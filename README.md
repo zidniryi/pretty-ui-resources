@@ -127,6 +127,7 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [React Hooks app to calculate the BMI of a person.](https://github.com/GermaVinsmoke/bmi-calculator "React Hooks app to calculate the BMI of a person.")
 - [React-meme-generator](https://github.com/lijinke666/react-meme-generator "React-meme-generator")
 - [React Tinder Card](https://github.com/3DJakob/react-tinder-card#readme "React Tinder Card")
+- [React Beautiful dnd - Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd "React Beautiful dnd - Beautiful and accessible drag and drop for lists with React")
 
 ### Angular
 
