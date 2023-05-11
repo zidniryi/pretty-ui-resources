@@ -84,6 +84,7 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [React Native Starter with TypeScript](https://github.com/gandarain/rn_starter "React Native Starter with TypeScript")
 - [e-commerce React Native Example](https://github.com/gandarain/Ecommerce_RN "e-commerce React Native Example")
 - [RN Cart App with Async Storage](https://github.com/gandarain/Ecommerce_RN "RN Cart App with Async Storage")
+- [Tamagui. A total UI kit for Native and Web. Composable components, themeable, sizable, adapts to each platform properly.](https://github.com/tamagui/tamagui "Tamagui. A total UI kit for Native and Web. Composable components, themeable, sizable, adapts to each platform properly.")
 
 ### Flutter
 
