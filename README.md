@@ -152,13 +152,21 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 ### Angular
 
 - [Angular Material Material Design components for Angular](https://material.angular.io/ "Angular Material Material Design components for Angular")
-- [ Customizable Slack-like emoji picker for Angular](https://github.com/scttcper/ngx-emoji-mart)
-- [A wrapper for sweetalert2 for use with Angular 2.](https://github.com/seiyria/ng2-sweetalert2)
-- [Highly customizable component to handle file drops and selection(ngx-dropzone).](https://github.com/peterfreeman/ngx-dropzone)
+- [Customizable Slack-like emoji picker for Angular](https://github.com/scttcper/ngx-emoji-mart)
+- [A wrapper for sweetalert2 for use with Angular 2](https://github.com/seiyria/ng2-sweetalert2)
+- [Highly customizable component to handle file drops and selection (ngx-dropzone)](https://github.com/peterfreeman/ngx-dropzone)
 - [Infinite Scroll Directive for Angular2 (based on Observables)](https://www.npmjs.com/package/angular2-infinite-scroll)
-- [Official component for fullPage.js, a fullscreen scrolling library.](https://github.com/alvarotrigo/angular-fullpage)
+- [Official component for fullPage.js, a fullscreen scrolling library](https://github.com/alvarotrigo/angular-fullpage)
 - [Pinterest like responsive masonry grid](https://github.com/s-yadav/angulargrid "Pinterest like responsive masonry grid")
 - [Lightweight Angular Chart Library](https://github.com/Chtau/dlChart)
+- [NGX-Bootstrap - Bootstrap components for Angular](https://github.com/valor-software/ngx-bootstrap "NGX-Bootstrap - Bootstrap components for Angular")
+- [AngularFire - The official library for Firebase and Angular](https://github.com/angular/angularfire "AngularFire - The official library for Firebase and Angular")
+- [NGXS - State Management for Angular](https://github.com/ngxs/store "NGXS - State Management for Angular")
+- [PrimeNG - A rich UI component library for Angular](https://github.com/primefaces/primeng "PrimeNG - A rich UI component library for Angular")
+- [Nebular - Customizable Angular UI Kit](https://github.com/akveo/nebular "Nebular - Customizable Angular UI Kit")
+- [Angular Google Maps (AGM)](https://github.com/SebastianM/angular-google-maps "Angular Google Maps (AGM)")
+- [ngx-translate - Internationalization (i18n) library for Angular](https://github.com/ngx-translate/core "ngx-translate - Internationalization (i18n) library for Angular")
+- [NG-ZORRO - Ant Design UI library for Angular](https://github.com/NG-ZORRO/ng-zorro-antd "NG-ZORRO - Ant Design UI library for Angular")
 
 ### Vue
 
