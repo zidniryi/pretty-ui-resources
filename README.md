@@ -150,6 +150,9 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [Vue Easy Slider (Slider Component of Vue.js.)](https://github.com/shhdgit/vue-easy-slider "Vue Easy Slider (Slider Component of Vue.js.)")
 - [Vue component for Froala WYSIWYG HTML Rich Text Editor.](https://github.com/froala/vue-froala-wysiwyg)
 - [Vue.js directive for masonry blocks layouting.](https://github.com/shershen08/vue-masonry)
+- [Vuetify (Material Design Component Framework for Vue)](https://github.com/vuetifyjs/vuetify)
+- [Element Plus (A Vue 3-based UI component library)](https://github.com/element-plus/element-plus)
+- [Quasar Framework (Build high-performance Vue.js apps with a Material Design theme)](https://github.com/quasarframework/quasar)
 
 ### HTML CSS
 
