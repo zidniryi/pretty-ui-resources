@@ -115,11 +115,30 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 ### Xamarin
 
 - [CSS flexbox module for Xamarin](https://github.com/xamarin/flex "CSS flexbox module for Xamarin")
+- [Xamarin.Essentials - Cross-platform APIs for mobile applications](https://github.com/xamarin/Essentials "Xamarin.Essentials - Cross-platform APIs for mobile applications")
+- [Xamarin.Forms - Cross-platform UI toolkit](https://github.com/xamarin/Xamarin.Forms "Xamarin.Forms - Cross-platform UI toolkit")
+- [SkiaSharp - 2D Graphics Library for Xamarin](https://github.com/mono/SkiaSharp "SkiaSharp - 2D Graphics Library for Xamarin")
+- [ReactiveUI - Reactive Programming for Xamarin](https://github.com/reactiveui/ReactiveUI "ReactiveUI - Reactive Programming for Xamarin")
+- [Xamarin Community Toolkit - Essential Components for Xamarin Development](https://github.com/xamarin/XamarinCommunityToolkit "Xamarin Community Toolkit - Essential Components for Xamarin Development")
+- [Xamarin.Auth - OAuth library for authenticating users](https://github.com/xamarin/Xamarin.Auth "Xamarin.Auth - OAuth library for authenticating users")
+- [Xamarin.UITest - UI testing framework for Xamarin apps](https://github.com/xamarin/Xamarin.UITest "Xamarin.UITest - UI testing framework for Xamarin apps")
+- [FFImageLoading - Fast & customizable image loading for Xamarin](https://github.com/luberda-molinet/FFImageLoading "FFImageLoading - Fast & customizable image loading for Xamarin")
+- [Akavache - Caching library for Xamarin](https://github.com/reactiveui/Akavache "Akavache - Caching library for Xamarin")
+- [Realm Xamarin - Mobile Database with Cloud Sync](https://github.com/realm/realm-dotnet "Realm Xamarin - Mobile Database with Cloud Sync")
+- [Xamarin.Firebase - Firebase bindings for Xamarin](https://github.com/xamarin/GoogleApisForiOSComponents/tree/master/Firebase "Xamarin.Firebase - Firebase bindings for Xamarin")
 
 ### Ionic
 
 - [Ionic-ion Tinder Cards](https://github.com/ionic-team/ionic-ion-tinder-cards "Ionic-ion Tinder Cards")
-- [Ionic-Component Costumizable UI Components for Ionic 4](https://github.com/fivethree-team/ionic-4-components "Ionic-Component Costumizable UI Components for Ionic 4")
+- [Ionic-Component Customizable UI Components for Ionic 4](https://github.com/fivethree-team/ionic-4-components "Ionic-Component Customizable UI Components for Ionic 4")
+- [Ionic Storage - Key/Value Storage Module](https://github.com/ionic-team/ionic-storage "Ionic Storage - Key/Value Storage Module")
+- [Ionic Native - A curated set of essential Native APIs for Ionic](https://github.com/ionic-team/ionic-native "Ionic Native - A curated set of essential Native APIs for Ionic")
+- [Super Tabs - Cross-Platform Tabs for Ionic Framework](https://github.com/zyra/ionic-super-tabs "Super Tabs - Cross-Platform Tabs for Ionic Framework")
+- [Ionic Split Pane Layout](https://ionicframework.com/docs/api/split-pane "Ionic Split Pane Layout")
+- [Ionic PWA Toolkit - Tools for building Progressive Web Apps](https://github.com/ionic-team/ionic-pwa-toolkit "Ionic PWA Toolkit - Tools for building Progressive Web Apps")
+- [Ionic Image Viewer - Modal Image Viewer for Ionic](https://github.com/Riron/ionic-img-viewer "Ionic Image Viewer - Modal Image Viewer for Ionic")
+- [Ionic Swipeable Cards](https://github.com/devdactic/ionic-swipeable-cards "Ionic Swipeable Cards")
+- [Ionic Framework Official Docs](https://ionicframework.com/docs "Ionic Framework Official Docs")
 
 ### React
 
