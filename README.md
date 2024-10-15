@@ -115,6 +115,17 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 ### Xamarin
 
 - [CSS flexbox module for Xamarin](https://github.com/xamarin/flex "CSS flexbox module for Xamarin")
+- [Xamarin.Essentials - Cross-platform APIs for mobile applications](https://github.com/xamarin/Essentials "Xamarin.Essentials - Cross-platform APIs for mobile applications")
+- [Xamarin.Forms - Cross-platform UI toolkit](https://github.com/xamarin/Xamarin.Forms "Xamarin.Forms - Cross-platform UI toolkit")
+- [SkiaSharp - 2D Graphics Library for Xamarin](https://github.com/mono/SkiaSharp "SkiaSharp - 2D Graphics Library for Xamarin")
+- [ReactiveUI - Reactive Programming for Xamarin](https://github.com/reactiveui/ReactiveUI "ReactiveUI - Reactive Programming for Xamarin")
+- [Xamarin Community Toolkit - Essential Components for Xamarin Development](https://github.com/xamarin/XamarinCommunityToolkit "Xamarin Community Toolkit - Essential Components for Xamarin Development")
+- [Xamarin.Auth - OAuth library for authenticating users](https://github.com/xamarin/Xamarin.Auth "Xamarin.Auth - OAuth library for authenticating users")
+- [Xamarin.UITest - UI testing framework for Xamarin apps](https://github.com/xamarin/Xamarin.UITest "Xamarin.UITest - UI testing framework for Xamarin apps")
+- [FFImageLoading - Fast & customizable image loading for Xamarin](https://github.com/luberda-molinet/FFImageLoading "FFImageLoading - Fast & customizable image loading for Xamarin")
+- [Akavache - Caching library for Xamarin](https://github.com/reactiveui/Akavache "Akavache - Caching library for Xamarin")
+- [Realm Xamarin - Mobile Database with Cloud Sync](https://github.com/realm/realm-dotnet "Realm Xamarin - Mobile Database with Cloud Sync")
+- [Xamarin.Firebase - Firebase bindings for Xamarin](https://github.com/xamarin/GoogleApisForiOSComponents/tree/master/Firebase "Xamarin.Firebase - Firebase bindings for Xamarin")
 
 ### Ionic
 
