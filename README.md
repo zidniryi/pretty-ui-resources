@@ -158,11 +158,17 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 
 - [15 CSS Blob Effects](https://freefrontend.com/css-blob-effects/ "15 CSS Blob Effects")
 - [3D Card CSS HTML](https://codepen.io/gayane-gasparyan/pen/wvxewXO "3D Card CSS HTML")
-- [Charts.css -CSS data visualization framework](https://chartscss.org/ "Charts.css -CSS data visualization framework")
+- [Charts.css - CSS data visualization framework](https://chartscss.org/ "Charts.css - CSS data visualization framework")
 - [Facebook Login Page Html Code With CSS](https://www.oflox.com/blog/facebook-login-page-html-code/ "Facebook Login Page Html Code With CSS")
 - [Replicate the google.com page design using HTML and CSS](https://www.codespeedy.com/replicate-the-google-com-page-design-using-html-and-css/ "Replicate the google.com page design using HTML and CSS")
 - [Responsive Web Login Form UI](https://github.com/raheel-anwar/Web-Login-Form-UI "Responsive Web Login Form UI")
-- [Wing - A beautiful CSS framework designed for minimalists](https://github.com/kbrsh/wing "Wing - A beautiful CSS framework designed for minimalistsI")
+- [Wing - A beautiful CSS framework designed for minimalists](https://github.com/kbrsh/wing "Wing - A beautiful CSS framework designed for minimalists")
+- [Neumorphism.io - Generate Soft-UI CSS Code](https://neumorphism.io/ "Neumorphism.io - Generate Soft-UI CSS Code")
+- [Hover.css - CSS3 Hover Effects](https://github.com/IanLunn/Hover "Hover.css - CSS3 Hover Effects")
+- [CSS Grid Garden - Learn CSS Grid](https://cssgridgarden.com/ "CSS Grid Garden - Learn CSS Grid")
+- [UI Gradients - Beautiful color gradients for design](https://uigradients.com/ "UI Gradients - Beautiful color gradients for design")
+- [Animate.css - A library of ready-to-use animations](https://animate.style/ "Animate.css - A library of ready-to-use animations")
+- [Pure.css - A set of small, responsive CSS modules](https://purecss.io/ "Pure.css - A set of small, responsive CSS modules")
 
 ## License
 
