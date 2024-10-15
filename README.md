@@ -119,7 +119,15 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 ### Ionic
 
 - [Ionic-ion Tinder Cards](https://github.com/ionic-team/ionic-ion-tinder-cards "Ionic-ion Tinder Cards")
-- [Ionic-Component Costumizable UI Components for Ionic 4](https://github.com/fivethree-team/ionic-4-components "Ionic-Component Costumizable UI Components for Ionic 4")
+- [Ionic-Component Customizable UI Components for Ionic 4](https://github.com/fivethree-team/ionic-4-components "Ionic-Component Customizable UI Components for Ionic 4")
+- [Ionic Storage - Key/Value Storage Module](https://github.com/ionic-team/ionic-storage "Ionic Storage - Key/Value Storage Module")
+- [Ionic Native - A curated set of essential Native APIs for Ionic](https://github.com/ionic-team/ionic-native "Ionic Native - A curated set of essential Native APIs for Ionic")
+- [Super Tabs - Cross-Platform Tabs for Ionic Framework](https://github.com/zyra/ionic-super-tabs "Super Tabs - Cross-Platform Tabs for Ionic Framework")
+- [Ionic Split Pane Layout](https://ionicframework.com/docs/api/split-pane "Ionic Split Pane Layout")
+- [Ionic PWA Toolkit - Tools for building Progressive Web Apps](https://github.com/ionic-team/ionic-pwa-toolkit "Ionic PWA Toolkit - Tools for building Progressive Web Apps")
+- [Ionic Image Viewer - Modal Image Viewer for Ionic](https://github.com/Riron/ionic-img-viewer "Ionic Image Viewer - Modal Image Viewer for Ionic")
+- [Ionic Swipeable Cards](https://github.com/devdactic/ionic-swipeable-cards "Ionic Swipeable Cards")
+- [Ionic Framework Official Docs](https://ionicframework.com/docs "Ionic Framework Official Docs")
 
 ### React
 
