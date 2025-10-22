@@ -170,6 +170,16 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [Angular Google Maps (AGM)](https://github.com/SebastianM/angular-google-maps "Angular Google Maps (AGM)")
 - [ngx-translate - Internationalization (i18n) library for Angular](https://github.com/ngx-translate/core "ngx-translate - Internationalization (i18n) library for Angular")
 - [NG-ZORRO - Ant Design UI library for Angular](https://github.com/NG-ZORRO/ng-zorro-antd "NG-ZORRO - Ant Design UI library for Angular")
+- [Angular CLI - Command line interface for Angular](https://github.com/angular/angular-cli "Angular CLI - Command line interface for Angular")
+- [Angular Universal - Server-side rendering for Angular](https://github.com/angular/universal "Angular Universal - Server-side rendering for Angular")
+- [Angular Flex Layout - Layout engine for Angular](https://github.com/angular/flex-layout "Angular Flex Layout - Layout engine for Angular")
+- [Angular CDK - Component Dev Kit for Angular](https://github.com/angular/components "Angular CDK - Component Dev Kit for Angular")
+- [Angular PWA - Progressive Web App utilities for Angular](https://github.com/angular/angular-pwa "Angular PWA - Progressive Web App utilities for Angular")
+- [Angular Animations - Animation library for Angular](https://github.com/angular/angular "Angular Animations - Animation library for Angular")
+- [Angular Service Worker - Service worker for Angular](https://github.com/angular/angular "Angular Service Worker - Service worker for Angular")
+- [Angular Forms - Reactive and template-driven forms for Angular](https://github.com/angular/angular "Angular Forms - Reactive and template-driven forms for Angular")
+- [Angular HTTP Client - HTTP client for Angular](https://github.com/angular/angular "Angular HTTP Client - HTTP client for Angular")
+- [Angular Testing - Testing utilities for Angular](https://github.com/angular/angular "Angular Testing - Testing utilities for Angular")
 
 ### Vue
 
