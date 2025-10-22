@@ -148,6 +148,9 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [React-meme-generator](https://github.com/lijinke666/react-meme-generator "React-meme-generator")
 - [React Tinder Card](https://github.com/3DJakob/react-tinder-card#readme "React Tinder Card")
 - [React Beautiful dnd - Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd "React Beautiful dnd - Beautiful and accessible drag and drop for lists with React")
+- [shadcn/ui - A set of beautifully-designed, accessible components and a code distribution platform](https://ui.shadcn.com/docs "shadcn/ui - A set of beautifully-designed, accessible components and a code distribution platform")
+- [TanStack Table - Headless UI for building powerful tables & datagrids](https://tanstack.com/table/latest "TanStack Table - Headless UI for building powerful tables & datagrids")
+- [TanStack Query - Powerful asynchronous state management, server-state utilities and data fetching](https://tanstack.com/query/latest "TanStack Query - Powerful asynchronous state management, server-state utilities and data fetching")
 
 ### Angular
 
