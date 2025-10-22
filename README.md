@@ -183,6 +183,13 @@ Please read [CONTRIBUTING](https://github.com/zidniryi/pretty-ui-resources/blob/
 - [Vuetify (Material Design Component Framework for Vue)](https://github.com/vuetifyjs/vuetify)
 - [Element Plus (A Vue 3-based UI component library)](https://github.com/element-plus/element-plus)
 - [Quasar Framework (Build high-performance Vue.js apps with a Material Design theme)](https://github.com/quasarframework/quasar)
+- [VueUse - Collection of essential Vue Composition Utilities](https://github.com/vueuse/vueuse "VueUse - Collection of essential Vue Composition Utilities")
+- [Pinia - The Vue Store that you will enjoy using](https://github.com/vuejs/pinia "Pinia - The Vue Store that you will enjoy using")
+- [Nuxt.js - The Intuitive Vue Framework](https://nuxt.com/ "Nuxt.js - The Intuitive Vue Framework")
+- [Vue Router - The official router for Vue.js](https://router.vuejs.org/ "Vue Router - The official router for Vue.js")
+- [Vue Test Utils - Official testing utilities for Vue.js](https://github.com/vuejs/test-utils "Vue Test Utils - Official testing utilities for Vue.js")
+- [Vue DevTools - Browser devtools extension for debugging Vue.js applications](https://github.com/vuejs/devtools "Vue DevTools - Browser devtools extension for debugging Vue.js applications")
+- [Vue i18n - Internationalization plugin for Vue.js](https://github.com/intlify/vue-i18n "Vue i18n - Internationalization plugin for Vue.js")
 
 ### HTML CSS
 
